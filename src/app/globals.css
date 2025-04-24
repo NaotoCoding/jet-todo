@@ -1,3 +1,4 @@
+@import "tailwindcss";
 @import "pixel-retroui/dist/index.css";
 
 /* pixel-retrouiコンポーネントにフォントを適用 */

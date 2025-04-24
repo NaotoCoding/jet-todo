@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Card className="p-4 mb-4">
-        <p>This is a pixel-styled card</p>
+        <p>レトロな表記です</p>
       </Card>
       <Button className="pb-5">作成</Button>
     </>

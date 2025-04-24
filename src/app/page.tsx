@@ -6,7 +6,7 @@ export default function Home() {
       <Card className="p-4 mb-4">
         <p>レトロな表記です</p>
       </Card>
-      <Button className="pb-5">作成</Button>
+      <Button>作成</Button>
     </>
   );
 }

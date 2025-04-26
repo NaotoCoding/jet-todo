@@ -4,3 +4,4 @@ coverage
 .next
 .node_modules
 README.md
+wrangler.jsonc
